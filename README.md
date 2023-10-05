@@ -4,6 +4,8 @@ Picture-in-picture video wrapper for mpv and youtube-dl
 
 Play local video files and video URLs in a floating, borderless, always-on-top, mpv window.
 
+Now with support for Windows
+
 ![picture in picture](images/piptube_floating.png)
 
 ### Local video files
